@@ -1,0 +1,1 @@
+2018-08-31 15:59:59	1129917	2018-08-31 15:59:59 UTC:10.186.39.179(46722):caduni@cadwf:[26402]:STATEMENT:  UPDATE "workflow"."person_workflow_status" SET "status_id"=3,"last_updated_at"='2018-08-31 12:59:59.697 -03:00' WHERE "version" = 1 AND "person_id" = '996f3975-b38c-49d4-8572-a88d3a7c47f2' AND "workflow_id" = 5 AND "task_id" = 4 AND "subtask_id" = 3
